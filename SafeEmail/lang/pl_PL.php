@@ -6,7 +6,7 @@
 		"lang_Menu_Title"		=>	"Bezpieczny Email 📧",
 		
 		"lang_Page_Title"		=>	"📧<br>Generator bezpiecznych wiadomości Email",
-		"lang_Description"		=>	"Łatwy sposób na zaciemnienie adresów Email w celu ochrony przed spamem przed botami skrobającymi.",
+		"lang_Description"		=>	"Łatwy sposób na zaszyfrowanie adresów Email w celu ochrony przed spamem przed botami skrobającymi.",
 		
 	# General
 		"lang_Email"	=>	"Adres Email",
